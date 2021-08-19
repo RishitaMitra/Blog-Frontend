@@ -1,2 +1,2 @@
 # Blog-Frontend
-IIC TMSL Blog Frontend
+IIC TMSL Blog Frontend Rishita
